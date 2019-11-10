@@ -11,6 +11,7 @@ Sonam
 1. (Done) Rain vs month for 3 different years (and inferring how rain is increasing or decreasing) and conclusions about that   
 2. Temperature changes on one day. And comparing them for different months (say January and December)
 3. Humidity vs month    
+4. Bar chart comparing the two months (one blue one red) with most rainfall in the 5/6 different countries. (In presentation, show map with these countries, and how geological location determines the amount of rainfall- coatals, interiors, etc)  
 
 
 Conclusions:  

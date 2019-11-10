@@ -6,4 +6,6 @@ Kavya
 
 
 Sonam  
-1. Rain vs month for 3 different years (and inferring how rain is increasing or decreasing) and conclusions about that  
+1. Rain vs month for 3 different years (and inferring how rain is increasing or decreasing) and conclusions about that   
+2. Temperature changes on one day. And comparing them for different months (say January and December)  
+

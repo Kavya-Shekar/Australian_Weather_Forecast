@@ -2,7 +2,9 @@
 Data analysis of weather in Australia
 
 Kavya  
-1. (Done) Max Temp vs month for 3 different years (global warming increasing or decreasing)  
+1. Data Cleaning
+2. Normalization and Standardisation
+3. (Done) Average Temp vs month for 3 different years (global warming increasing or decreasing)  
 
 
 Sonam  
@@ -14,7 +16,7 @@ Sonam
 Conclusions:  
 Temp vs month  
 -> Temperature is more or less  constant over the years.  
--> (Please add conclusions about global warming etc)  
+-> Need to add more years and more parameters to infer about this comparison.
 
 Rainfall vs month  
 -> Rainfall has dropped disastrously over years.  

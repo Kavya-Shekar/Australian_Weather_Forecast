@@ -2,7 +2,7 @@
 Data analysis of weather in Australia
 
 Kavya  
-1. Data Cleaning
+1. (Done) Data Cleaning
 2. Normalization and Standardisation
 3. (Done) Average Temp vs month for 3 different years (global warming increasing or decreasing)  
 
@@ -16,8 +16,8 @@ Sonam
 
 Conclusions:  
 Temp vs month  
--> Temperature is more or less  constant over the years.  
--> Need to add more years and more parameters to infer about this comparison.
+-> Temperature is gradually increasing over the years.
+-> Could be a sign of global warming.
 
 Rainfall vs month  
 -> Rainfall has dropped disastrously over years.  

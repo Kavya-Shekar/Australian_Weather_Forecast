@@ -1,4 +1,4 @@
-# IDS_project
+# Australian_Weather_Forecast
 Data analysis of weather in Australia
  
 Temp vs month  
